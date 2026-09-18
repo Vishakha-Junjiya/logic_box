@@ -105,6 +105,20 @@ Input validation means checking whether the user has entered valid data.
 
 In this project, the program checks that the number of rows is positive and that the ending number is not smaller than the starting number.
 
+## 📁 Project Structure
+
+project_2/
+│
+├── logic_box.py
+├── logic_output.png
+└── README.md
+
+logic_box.py – Main Python program that generates the star pattern and analyzes a range of numbers.
+
+logic_output.png – Output screenshot of the program.
+
+README.md – Project documentation and information.
+
 ## 🔄 Program Workflow
 
 1. 👋 Display the welcome message.
